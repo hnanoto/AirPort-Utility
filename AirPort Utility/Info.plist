@@ -9,10 +9,6 @@
 	</array>
 	<key>BuildMachineOSBuild</key>
 	<string>22A380017</string>
-	<key>CFBundleDevelopmentRegion</key>
-	<string>en</string>
-	<key>CFBundleDisplayName</key>
-	<string>AirPort Utility</string>
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>
@@ -52,8 +48,6 @@
 			<string></string>
 		</dict>
 	</array>
-	<key>CFBundleExecutable</key>
-	<string>AirPort Utility</string>
 	<key>CFBundleGetInfoString</key>
 	<string>6.3.9, Copyright 2001 -2022 Apple Inc.</string>
 	<key>CFBundleHelpBookFolder</key>
@@ -64,16 +58,6 @@
 	<string>AppIcon</string>
 	<key>CFBundleIconName</key>
 	<string>AppIcon</string>
-	<key>CFBundleIdentifier</key>
-	<string>Hackintosh-and-Beyond.AirPort-Utility</string>
-	<key>CFBundleInfoDictionaryVersion</key>
-	<string>6.0</string>
-	<key>CFBundleName</key>
-	<string>AirPort Utility</string>
-	<key>CFBundlePackageType</key>
-	<string>KEXT</string>
-	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
 	<key>CFBundleSignature</key>
 	<string>1wcu</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -90,8 +74,6 @@
 			</array>
 		</dict>
 	</array>
-	<key>CFBundleVersion</key>
-	<string>1</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -110,14 +92,8 @@
 	<string>14E6097d</string>
 	<key>HPDHelpProjectIdentifier</key>
 	<string>aputility</string>
-	<key>LSApplicationCategoryType</key>
-	<string>public.app-category.utilities</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>14.0</string>
-	<key>NSMainNibFile</key>
-	<string>MainMenu</string>
-	<key>NSPrincipalClass</key>
-	<string>NSApplication</string>
 	<key>NSSupportsSuddenTermination</key>
 	<true/>
 </dict>
