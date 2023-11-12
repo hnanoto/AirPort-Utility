@@ -281,7 +281,7 @@
 				INFOPLIST_KEY_NSMainNibFile = MainMenu;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
-				MARKETING_VERSION = 0.0.1;
+				MARKETING_VERSION = 1.0.0;
 				MODULE_NAME = "Hackintosh and Beyond.AirPort_Utility";
 				MODULE_START = AirPort_Utility_start;
 				MODULE_STOP = AirPort_Utility_stop;
@@ -308,7 +308,7 @@
 				INFOPLIST_KEY_NSMainNibFile = MainMenu;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
-				MARKETING_VERSION = 0.0.1;
+				MARKETING_VERSION = 1.0.0;
 				MODULE_NAME = "Hackintosh and Beyond.AirPort_Utility";
 				MODULE_START = AirPort_Utility_start;
 				MODULE_STOP = AirPort_Utility_stop;
